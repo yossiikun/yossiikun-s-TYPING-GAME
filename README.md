@@ -1,5 +1,8 @@
 # yossiikun-s-TYPING-GAME
 
+Japanese Readme
+https://github.com/yossiikun/yossiikun-s-TYPING-GAME/blob/main/README_JA.md
+
 This was created for practice and is not a fully developed game.
 
 **Note:** This source code is written in **Japanese, including comments**.  
