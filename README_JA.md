@@ -14,18 +14,15 @@
 ### ビルド方法
 
 #### Windows
-1. Visual Studio を開く  
-2. 「Developer Command Prompt」を開く  
-3. コンパイル：
-   ```bat
-   g++ code.cpp -o typing.exe
+1. build-en_us.batを実行
+2. typing_game_en.exeで起動
 
 ### Mac & Linux
 1. ターミナルを開く
 2. コンパイル:
    ```bash
-   g++ code.cpp -o typing
+   sh build-en_us.sh
 3. 起動:
    ```bash
-   ./typing
+   ./typing_game_en
    
