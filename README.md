@@ -7,10 +7,10 @@ Please follow the Japanese comments when reading the code.
 **Useing ChatGPT!**
 
 How To Use
-  Windows&Mac
-    WIP
-  Linux
-    1.Compile
-      g++ code.cpp -o typing
-    2.Run
-      ./typing
+**Windows&Mac**
+WIP
+**Linux**
+1.Compile
+g++ code.cpp -o typing
+2.Run
+./typing
