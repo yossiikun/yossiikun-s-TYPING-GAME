@@ -17,20 +17,16 @@ Please follow the Japanese comments when reading the code.
 ### Build
 
 ### Windows
-1. Open Visual Studio
-2. Open Developer Command Prompt
-3. Compile:
-   ```bash
-   g++ code.cpp -o typing.exe
-4. Run typing.exe
+1. Run build-en_us.bat
+2. Run typing_game.exe
 
 ### Mac & Linux
 1. Open a terminal  
 2. Compile:
    ```bash
-   g++ code.cpp -o typing
+   sh build-en_us.sh
 3. Run:
    ```bash
-   ./typing
+   ./typing_game
    
 Tip: This is a fairly simple program, so feel free to fork it and modify it as you like!
