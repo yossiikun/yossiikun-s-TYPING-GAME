@@ -18,7 +18,7 @@ Please follow the Japanese comments when reading the code.
 
 ### Windows
 1. Run build-en_us.bat
-2. Run typing_game.exe
+2. Run typing_game_en.exe
 
 ### Mac & Linux
 1. Open a terminal  
@@ -27,6 +27,6 @@ Please follow the Japanese comments when reading the code.
    sh build-en_us.sh
 3. Run:
    ```bash
-   ./typing_game
+   ./typing_game_en
    
 Tip: This is a fairly simple program, so feel free to fork it and modify it as you like!
