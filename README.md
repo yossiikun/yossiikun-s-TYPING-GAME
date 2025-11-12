@@ -8,7 +8,7 @@ Please follow the Japanese comments when reading the code.
 
 How To Use
   Windows&Mac
-    WIP (;
+    WIP
   Linux
     1.Compile
       g++ code.cpp -o typing
