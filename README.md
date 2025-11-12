@@ -14,6 +14,8 @@ Please follow the Japanese comments when reading the code.
 
 ## How To Use
 
+### Build
+
 ### Windows & Mac
 - WIP (Work in progress)  
 
